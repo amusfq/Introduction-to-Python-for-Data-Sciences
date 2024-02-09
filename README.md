@@ -1,7 +1,7 @@
 
 <table>
 <tr>
-<td width=15%><img src="./img/UGA.png"></img></td>
+<td width=15%><img src="https://raw.githubusercontent.com/amusfq/Introduction-to-Python-for-Data-Sciences/master/img/UGA.png"></img></td>
 <td><center><h1>Introduction to Python for Data Sciences</h1></center></td>
 <td width=15%><a href="http://www.iutzeler.org" style="font-size: 16px; font-weight: bold">Franck Iutzeler</a> </td>
 </tr>
